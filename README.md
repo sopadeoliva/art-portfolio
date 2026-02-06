@@ -1,10 +1,10 @@
 # Sopa de Oliva - Portfolio
 
-This repository contains the source code for **[Sopa de Oliva's Art Portfolio webpage](www.google.com)**. Feel free to browse the project and use it as a guide to build your own portfolio!
+This repository contains the source code for **[Sopa de Oliva's Art Portfolio webpage]()**. Feel free to browse the project and use it as a guide to build your own portfolio!
 
 - This project was fully built using [React.js.](https://react.dev/)
 
-- All SVG icons used in this project come from [SVG Repo](https://www.svgrepo.com/).
+- All icons used in this project either come from [SVG Repo](https://www.svgrepo.com/) or were made by me!
 
 ---
 
@@ -23,7 +23,7 @@ All artworks in this project are made by me (@sopadeoliva).
 ❌ You are **NOT allowed** to
 
 - Take credit for or post any of the artworks in social media without my explicit consent.
-- Print and sell the artworks, or any other commercial use.
+- Print and sell the artworks, or use them for any other commercial purpose.
 - Train generative AI models with the artworks.
 
 If you have any questions about other uses, you can contact me at:

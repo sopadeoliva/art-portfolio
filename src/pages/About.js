@@ -25,7 +25,6 @@ function Contact() {
         <IconLink text="sopadeoliva@gmail.com" url="mailto:sopadeoliva@gmail.com" imgSrc={mailIcon} alt="Email"/>
         <IconLink text="@olivasoup" url="https://www.instagram.com/olivasoup" imgSrc={igIcon} alt="Instagram"/>
         {/* <IconLink text="sopadeoliva" url="https://bsky.app/profile/sopadeoliva.bsky.social" imgSrc={bsIcon} alt="Bluesky"/> */}
-        {/* <p><span>Instagram:</span> <a href="https://www.instagram.com/olivasoup">@olivasoup</a></p> */}
       </div>
       <div className="contact-section">
         <h2>Support me!</h2>

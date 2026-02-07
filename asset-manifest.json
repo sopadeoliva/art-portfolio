@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/art-portfolio/static/css/main.6dcd6f88.css",
-    "main.js": "/art-portfolio/static/js/main.75f8e3cd.js",
+    "main.js": "/art-portfolio/static/js/main.ea7dad05.js",
     "static/js/453.61398626.chunk.js": "/art-portfolio/static/js/453.61398626.chunk.js",
     "static/media/fireball.webp": "/art-portfolio/static/media/fireball.035f53d911172297f93a.webp",
     "static/media/gbp.webp": "/art-portfolio/static/media/gbp.b5f13a50577e99408180.webp",
@@ -23,6 +23,7 @@
     "static/media/jo.webp": "/art-portfolio/static/media/jo.932389a80a5bfab30538.webp",
     "static/media/moon.webp": "/art-portfolio/static/media/moon.67da9a214a28980fd784.webp",
     "static/media/auri.webp": "/art-portfolio/static/media/auri.11220af20b2db08abe90.webp",
+    "static/media/om1.webp": "/art-portfolio/static/media/om1.81e14a106c26d9847a0a.webp",
     "static/media/ancient_set.webp": "/art-portfolio/static/media/ancient_set.624fc309e6441b6d7b55.webp",
     "static/media/volley.webp": "/art-portfolio/static/media/volley.0e18a3c7fa5038fb7b33.webp",
     "static/media/giri.webp": "/art-portfolio/static/media/giri.e7a40ebd5765a8c2e136.webp",
@@ -43,11 +44,11 @@
     "index.html": "/art-portfolio/index.html",
     "static/media/shop.svg": "/art-portfolio/static/media/shop.8268907099fa98d486dfb74fd67e9eaf.svg",
     "main.6dcd6f88.css.map": "/art-portfolio/static/css/main.6dcd6f88.css.map",
-    "main.75f8e3cd.js.map": "/art-portfolio/static/js/main.75f8e3cd.js.map",
+    "main.ea7dad05.js.map": "/art-portfolio/static/js/main.ea7dad05.js.map",
     "453.61398626.chunk.js.map": "/art-portfolio/static/js/453.61398626.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6dcd6f88.css",
-    "static/js/main.75f8e3cd.js"
+    "static/js/main.ea7dad05.js"
   ]
 }

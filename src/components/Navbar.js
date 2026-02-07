@@ -6,10 +6,10 @@ export default function Navbar() {
     return (
         <nav className="navbar">
             <ul className="nav-links">
-                <li><Link to="/">Artworks</Link></li>
-                <li><Link to="/chars">Character Art</Link></li>
-                <li><Link to="/commissions">Commissions</Link></li>
-                <li><Link to="/about">About</Link></li>
+                <li><Link to="/art-portfolio">Artworks</Link></li>
+                <li><Link to="/art-portfolio/chars">Character Art</Link></li>
+                <li><Link to="/art-portfolio/commissions">Commissions</Link></li>
+                <li><Link to="/art-portfolio/about">About</Link></li>
             </ul>
         </nav>
     )

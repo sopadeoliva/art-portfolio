@@ -26,9 +26,9 @@ function App() {
         <Routes>
           <Route path='/' element={<Portfolio />} />
           <Route path='/art-portfolio' element={<Portfolio />} />
-          <Route path='/about' element={<About />} />
-          <Route path='/commissions' element={<Commissions />} />
-          <Route path='/chars' element={<CharArt />} />
+          <Route path='/art-portfolio/about' element={<About />} />
+          <Route path='/art-portfolio/commissions' element={<Commissions />} />
+          <Route path='/art-portfolio/chars' element={<CharArt />} />
         </Routes>
       </div>
       <Footer />

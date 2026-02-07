@@ -16,6 +16,7 @@ export function Gallery({ pagename, imgList }) {
   const [slideNum, setSlideNum] = useState(0);
 
   const handleOpenModal = (index) => {
+    if (window.innerWidth <= 800) return;
     setSlideNum(index);
     setOpenModal(true);
   };
@@ -29,6 +30,7 @@ export function Gallery({ pagename, imgList }) {
   }
 
   const prevSlide = () => {
+    slideNum === 0 ? setSlideNum(imgList.length - 1) :
     setSlideNum((current) => (current - 1) % imgList.length)
   }
   
@@ -48,9 +50,11 @@ export function Gallery({ pagename, imgList }) {
           <div className="nextBtn" onClick={nextSlide}>
             <img src={nextBtn} alt='"next button'/>
           </div>
+          {imgList[slideNum].desc !== "" && 
             <div className="description-block">
-              Description...Blablabla
-            </div>
+                {imgList[slideNum].desc}
+              </div>
+          }
         </div>
           }
       <div className="gallery">

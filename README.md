@@ -6,8 +6,6 @@ This repository contains the source code for **[Sopa de Oliva's Art Portfolio we
 
 - All icons used in this project either come from [SVG Repo](https://www.svgrepo.com/) or were made by me!
 
----
-
 ## Licence
 
 ### 💻 Code

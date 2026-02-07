@@ -4,10 +4,11 @@ export const translations = {
       about: "About",
       contact: "Contact",
       home: "Home",
-      portfolio: "Portfolio"
+      portfolio: "Portfolio",
+      charart: "Character Art"
     },
     about: {
-      text: "Hello! I'm Sol Olivia, a self-taught artist and illustrator from Santiago, Chile."
+      text: ""
     }
   },
   es: {
@@ -16,9 +17,10 @@ export const translations = {
       contact: "Contactos",
       home: "Inicio",
       portfolio: "Portafolio",
+      charart: "Personajes"
     },
     about: {
-      text: "Hola! Soy Sol Olivia,"
+      text: ""
     }
     // langToggle: "EN"
   }

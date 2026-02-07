@@ -6,10 +6,9 @@ import AS from './assets/artworks/ancient_set.webp';
 import CoM from './assets/artworks/change_of_mind.webp';
 import lovelace from './assets/artworks/lovelace.webp';
 import omara from './assets/artworks/omara.webp';
-import comic1 from './assets/artworks/comic1.webp';
+
 import comic2 from './assets/artworks/comic2.webp';
-import card1 from './assets/artworks/card1.JPG';
-import card2 from './assets/artworks/card2.JPG';
+
 import card3 from './assets/artworks/card3.JPG';
 import card4 from './assets/artworks/card4.JPG';
 import donc from './assets/artworks/doncella.jpg';
@@ -17,6 +16,7 @@ import moon from './assets/artworks/moon.webp';
 import sapito from './assets/artworks/sapitomago.webp';
 
 // Character art
+import om1 from './assets/charart/om1.webp';
 import solfi from './assets/charart/solfi.webp';
 import scs from './assets/charart/scs.webp';
 import gbp from './assets/charart/gbp.webp';
@@ -134,6 +134,10 @@ export const artworkImgs = [{
 export const charArtImgs = [
   {
     imgSrc: scs,
+    desc: "",
+  },
+  {
+    imgSrc: om1,
     desc: "",
   },
   {

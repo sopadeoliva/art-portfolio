@@ -25,6 +25,7 @@ function App() {
       <div className='main-page'>
         <Routes>
           <Route path='/' element={<Portfolio />} />
+          <Route path='/art-portfolio' element={<Portfolio />} />
           <Route path='/about' element={<About />} />
           <Route path='/commissions' element={<Commissions />} />
           <Route path='/chars' element={<CharArt />} />

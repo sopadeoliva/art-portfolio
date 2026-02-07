@@ -29,6 +29,7 @@ body {
     margin: 3rem 0;
     padding: 1.5rem;
     position: sticky;
+    font-size: small;
     text-align: center;
     color: #9c9c9c;
     bottom: 0;
@@ -38,6 +39,7 @@ body {
     height: 3rem;
     color: #eee;
     display: flex;
+    flex-direction: row;
     justify-content: center;
     font-size: larger;
     font-weight: bolder;
@@ -263,8 +265,15 @@ h1 {
         position: relative;
     }
     .nav-links {
+        font-size: smaller;
         gap: .5rem;
         padding: 0;
+    }
+    h1, h2 {
+        font-size: x-large;
+    }
+    p {
+        font-size: medium;
     }
     .gallery {
         column-count: 1;
@@ -279,6 +288,9 @@ h1 {
 }
 
 @media (max-height: 800px) {
+    body {
+        font-size: smaller;
+    }
     .page {
         margin: 1.5rem
     }

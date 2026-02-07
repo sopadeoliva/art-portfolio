@@ -1,6 +1,6 @@
 # Sopa de Oliva - Portfolio
 
-This repository contains the source code for **[Sopa de Oliva's Art Portfolio webpage](https://sopadeoliva.github.io/)**. Feel free to browse the project and use it as a guide to build your own portfolio!
+This repository contains the source code for **[Sopa de Oliva's Art Portfolio webpage](https://sopadeoliva.github.io/art-portfolio)**. Feel free to browse the project and use it as a guide to build your own portfolio!
 
 - This project was fully built using [React.js.](https://react.dev/)
 

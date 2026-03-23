@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/art-portfolio/static/css/main.6dcd6f88.css",
-    "main.js": "/art-portfolio/static/js/main.ea7dad05.js",
-    "static/js/453.61398626.chunk.js": "/art-portfolio/static/js/453.61398626.chunk.js",
+    "main.css": "/art-portfolio/static/css/main.a4e5127d.css",
+    "main.js": "/art-portfolio/static/js/main.9fac5be9.js",
+    "static/js/453.0736da8e.chunk.js": "/art-portfolio/static/js/453.0736da8e.chunk.js",
     "static/media/fireball.webp": "/art-portfolio/static/media/fireball.035f53d911172297f93a.webp",
     "static/media/gbp.webp": "/art-portfolio/static/media/gbp.b5f13a50577e99408180.webp",
     "static/media/demonio.webp": "/art-portfolio/static/media/demonio.870ab2faa985eae621b3.webp",
@@ -20,6 +20,9 @@
     "static/media/card4.JPG": "/art-portfolio/static/media/card4.4170e0fe28d54e8b396c.JPG",
     "static/media/change_of_mind.webp": "/art-portfolio/static/media/change_of_mind.dbcf1da03f4e2a707382.webp",
     "static/media/kosj.webp": "/art-portfolio/static/media/kosj.438cfa2f3808a1e9de6f.webp",
+    "static/media/coms4.webp": "/art-portfolio/static/media/coms4.721fc8f449a98cdab1a5.webp",
+    "static/media/coms5.webp": "/art-portfolio/static/media/coms5.16ecf11e3d733cd12f3c.webp",
+    "static/media/coms2.webp": "/art-portfolio/static/media/coms2.630a894fc6e4edad4902.webp",
     "static/media/jo.webp": "/art-portfolio/static/media/jo.932389a80a5bfab30538.webp",
     "static/media/moon.webp": "/art-portfolio/static/media/moon.67da9a214a28980fd784.webp",
     "static/media/auri.webp": "/art-portfolio/static/media/auri.11220af20b2db08abe90.webp",
@@ -27,12 +30,14 @@
     "static/media/ancient_set.webp": "/art-portfolio/static/media/ancient_set.624fc309e6441b6d7b55.webp",
     "static/media/volley.webp": "/art-portfolio/static/media/volley.0e18a3c7fa5038fb7b33.webp",
     "static/media/giri.webp": "/art-portfolio/static/media/giri.e7a40ebd5765a8c2e136.webp",
+    "static/media/coms3.webp": "/art-portfolio/static/media/coms3.53dba53ba004a37993ff.webp",
     "static/media/lucca.webp": "/art-portfolio/static/media/lucca.88700ca810027f226d6e.webp",
     "static/media/noro.webp": "/art-portfolio/static/media/noro.88320429e4d5b04903d6.webp",
+    "static/media/coms6.webp": "/art-portfolio/static/media/coms6.dce5f75c9d30372c0bd4.webp",
+    "static/media/coms1.webp": "/art-portfolio/static/media/coms1.3971de56b5383e6f491c.webp",
     "static/media/ily.webp": "/art-portfolio/static/media/ily.2fefbfd0b3ac3f2ecb5e.webp",
     "static/media/solfi.webp": "/art-portfolio/static/media/solfi.c253df76dff68f027db1.webp",
     "static/media/cancion.webp": "/art-portfolio/static/media/cancion.43cb9448bc431b96c08f.webp",
-    "static/media/whoosh.webp": "/art-portfolio/static/media/whoosh.9c3e401c53b0ee08e6ec.webp",
     "static/media/logo.webp": "/art-portfolio/static/media/logo.8bd2f173265f4c85bc19.webp",
     "static/media/profile.webp": "/art-portfolio/static/media/profile.57069bd65d8e703cadc3.webp",
     "static/media/larrow.webp": "/art-portfolio/static/media/larrow.8c9de049c31e4911d837.webp",
@@ -41,14 +46,15 @@
     "static/media/ig.svg": "/art-portfolio/static/media/ig.0dd482fa842bd7851f54ff91a01be94a.svg",
     "static/media/mail.svg": "/art-portfolio/static/media/mail.1796d75f8fa6b23c9f798899326aed67.svg",
     "static/media/kofi.svg": "/art-portfolio/static/media/kofi.c8431e0952f6714bb09082c2d9d0f090.svg",
+    "static/media/notion.svg": "/art-portfolio/static/media/notion.fa17970a00afe37e94b31bccbaf77d89.svg",
     "index.html": "/art-portfolio/index.html",
     "static/media/shop.svg": "/art-portfolio/static/media/shop.8268907099fa98d486dfb74fd67e9eaf.svg",
-    "main.6dcd6f88.css.map": "/art-portfolio/static/css/main.6dcd6f88.css.map",
-    "main.ea7dad05.js.map": "/art-portfolio/static/js/main.ea7dad05.js.map",
-    "453.61398626.chunk.js.map": "/art-portfolio/static/js/453.61398626.chunk.js.map"
+    "main.a4e5127d.css.map": "/art-portfolio/static/css/main.a4e5127d.css.map",
+    "main.9fac5be9.js.map": "/art-portfolio/static/js/main.9fac5be9.js.map",
+    "453.0736da8e.chunk.js.map": "/art-portfolio/static/js/453.0736da8e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dcd6f88.css",
-    "static/js/main.ea7dad05.js"
+    "static/css/main.a4e5127d.css",
+    "static/js/main.9fac5be9.js"
   ]
 }

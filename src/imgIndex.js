@@ -32,6 +32,14 @@ import max from './assets/charart/maxwell.webp';
 import kosj from './assets/charart/kosj.webp';
 import auri from './assets/charart/auri.webp';
 
+import coms1 from  './assets/coms/coms1.webp';
+import coms2 from  './assets/coms/coms2.webp';
+import coms3 from  './assets/coms/coms3.webp';
+import coms4 from  './assets/coms/coms4.webp';
+import coms5 from  './assets/coms/coms5.webp';
+import coms6 from  './assets/coms/coms6.webp';
+
+
 
 export const artworkImgs = [{
     id: 1,
@@ -190,6 +198,33 @@ export const charArtImgs = [
   },
   {
     imgSrc: auri,
+    desc: "",
+  },
+]
+
+export const comsImgs = [
+  {
+    imgSrc: coms1,
+    desc: "",
+  },
+  {
+    imgSrc: coms2,
+    desc: "",
+  },
+  {
+    imgSrc: coms3,
+    desc: "",
+  },
+  {
+    imgSrc: coms4,
+    desc: "",
+  },
+  {
+    imgSrc: coms5,
+    desc: "",
+  },
+  {
+    imgSrc: coms6,
     desc: "",
   },
 ]

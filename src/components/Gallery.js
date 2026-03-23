@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useCallback, useEffect } from "react";
 import crossBtn from "../assets/icons/cross.webp";
 import nextBtn from "../assets/icons/rarrow.webp";
 import prevBtn from "../assets/icons/larrow.webp";
@@ -25,14 +25,37 @@ export function Gallery({ pagename, imgList }) {
     setOpenModal(false);
   }
 
-  const nextSlide = () => {
-    setSlideNum((current) => (current + 1) % imgList.length)
-  }
+  const nextSlide = useCallback(() => {
+    setSlideNum((current) => (current + 1) % imgList.length);
+  }, [imgList.length]);
+  
 
-  const prevSlide = () => {
-    slideNum === 0 ? setSlideNum(imgList.length - 1) :
-    setSlideNum((current) => (current - 1) % imgList.length)
-  }
+  const prevSlide = useCallback(() => {
+    setSlideNum((current) => 
+      current === 0 ? imgList.length - 1 : current - 1
+    );
+  }, [imgList.length]);
+
+  // Keyboard Event Listener
+  useEffect(() => {
+    const handleKeyDown = (event) => {
+      if (!openModal) return;
+
+      if (event.key === "ArrowRight") {
+        nextSlide();
+      } else if (event.key === "ArrowLeft") {
+        prevSlide();
+      } else if (event.key === "Escape") {
+        closeModal();
+      }
+    };
+
+    window.addEventListener("keydown", handleKeyDown);
+
+    return () => {
+      window.removeEventListener("keydown", handleKeyDown);
+    };
+  }, [openModal, nextSlide, prevSlide]);
   
   return (
     <div>

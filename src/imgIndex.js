@@ -45,97 +45,85 @@ export const artworkImgs = [{
     id: 1,
     imgSrc: AS,
     desc: "Ancient Set - Personal work", 
-    page: "portfolio"
+    page: "artworks"
   },
 {
     id: 2,
     imgSrc: CoM,
     desc: "Comic page - Inspired in podcast Wolf 359, 'Change of Mind'",
-    page: "portfolio"
+    page: "artworks"
   },
-// {
-//     id: 3,
-//     imgSrc: card1,
-//     desc: "The Sun, Giver of Life - Personal work",
-//     page: "portfolio"
-//   },
-  // {
-  //   id: 4,
-  //   imgSrc: card2,
-  //   desc: "The Moon, the Many-Faced - Personal work",
-  //   page: "portfolio"
-  // },
     {
     id: 5,
     imgSrc: card3,
     desc: "Stars, Sisters of Wonder - Personal work",
-    page: "portfolio"
+    page: "artworks"
   },
     {
     id: 6,
     imgSrc: card4,
     desc: "The World - Personal work",
-    page: "portfolio"
+    page: "artworks"
   },
   {
     id: 7,
     imgSrc: donc,
     desc: "Cover illustration for 'La doncella aguja' by Marina Closs. Published by Laurel Libros.",
-    page: "portfolio"
+    page: "artworks"
   },
   {
     id: 8,
     imgSrc: cancion,
     desc: "Cover illustration for 'Canción, llévame lejos' by Mauro Libertella. Published by Laurel Libros.",
-    page: "portfolio"
+    page: "artworks"
   },
   {
     id: 9,
     imgSrc: demonio,
     desc: "Demonio amigo - Personal work",
-    page: "portfolio"
+    page: "artworks"
   },
   {
     id: 10,
     imgSrc: fireball,
     desc: "Fireball - Personal work",
-    page: "portfolio"
+    page: "artworks"
   },
   {
     id: 11,
     imgSrc: lovelace,
     desc: "Lovelace - Personal work, inspired by podcast Wolf 359",
-    page: "portfolio"
+    page: "artworks"
   },
   // {
   //   id: 12,
   //   imgSrc: comic1,
   //   desc: "",
-  //   page: "portfolio"
+  //   page: "artworks"
   // },
   {
     id: 13,
     imgSrc: comic2,
     desc: "Short comic page - Personal work",
-    page: "portfolio"
+    page: "artworks"
   }, 
   {
     id: 14,
     imgSrc: omara,
     desc: "Omara - Personal work",
-    page: "portfolio"
+    page: "artworks"
   }, 
   {
     id: 29,
     imgSrc: moon,
     desc: "Moon - Personal work",
-    page: "portfolio"
+    page: "artworks"
   }, 
   {
     id: 30,
     imgSrc: sapito,
     desc: "Sapito mago - Personal work",
-    page: "portfolio"
+    page: "artworks"
   }, 
 ];
 

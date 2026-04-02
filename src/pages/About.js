@@ -21,7 +21,6 @@ function Contact() {
       <div className="contact-section">
         <h2>Support me!</h2>
         <p>You can support me by following me on social media, sharing my work, and buying my prints on Inprnt. You can also buy me a coffee!</p>
-        {/* <IconLink text="@olivasoup" url="https://www.instagram.com/sopadeoliva.art" imgSrc={igIcon} alt="Instagram"/> */}
         <IconLink text="INPRNT Print shop" url="https://www.inprnt.com/gallery/sopadeoliva/" imgSrc={cartIcon} alt="Inprnt"/>
         <IconLink text="Support me on Kofi!" url="https://ko-fi.com/sopadeoliva" imgSrc={kofiIcon} alt="Kofi"/>
       </div>

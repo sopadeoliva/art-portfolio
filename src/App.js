@@ -9,7 +9,7 @@ import { Route, Routes } from 'react-router-dom';
 import Footer from './components/Footer';
 
 import About from './pages/About';
-import Portfolio from './pages/Portfolio';
+import Artworks from './pages/Artworks';
 import CharArt from './pages/CharArt';
 import Commissions from './pages/Commissions';
 
@@ -23,11 +23,10 @@ function App() {
       </div>
       <div className='main-page'>
         <Routes>
-          <Route path='/' element={<Portfolio />} />
-          {/* <Route path='/art-portfolio' element={<Portfolio />} /> */}
-          <Route path='/about' element={<About />} />
-          <Route path='/commissions' element={<Commissions />} />
+          <Route path='/' element={<Artworks />} />
           <Route path='/chars' element={<CharArt />} />
+          <Route path='/commissions' element={<Commissions />} />
+          <Route path='/about' element={<About />} />
         </Routes>
       </div>
       <Footer />
